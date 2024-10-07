@@ -1,0 +1,33 @@
+INSERT INTO LIVRE(titre, auteur, disponible ) VALUES ('Les 3 mousquetaires','Alexandre Dumas', 'oui');
+INSERT INTO LIVRE(titre, auteur, disponible ) VALUES ('Le cauchemar d''Innsmouth','H.P.Lovecraft', 'Non');
+INSERT INTO LIVRE(titre, auteur, disponible ) VALUES ('Les clous rouges','Robert E. Howard', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Dune', 'Frank Herbert', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Neuromancien', 'William Gibson', 'non');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Le Seigneur des Anneaux', 'J.R.R. Tolkien', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Fahrenheit 451', 'Ray Bradbury', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('1984', 'George Orwell', 'Non');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Le cycle des Robots', 'Isaac Asimov', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Le Nom du Vent', 'Patrick Rothfuss', 'Non');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('L''Épée de Vérité', 'Terry Goodkind', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Hyperion', 'Dan Simmons', 'Non');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Le Trône de Fer', 'George R.R. Martin', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('La Horde du Contrevent', 'Alain Damasio', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Légende', 'David Gemmell', 'Non');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Les Cantos d''Hyperion', 'Dan Simmons', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Le Prince des Fous', 'Mark Lawrence', 'Non');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('American Gods', 'Neil Gaiman', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('La Roue du Temps', 'Robert Jordan', 'Non');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Les Chroniques de Narnia', 'C.S. Lewis', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('La Tour Sombre', 'Stephen King', 'Non');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Shining', 'Stephen King', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Fondation', 'Isaac Asimov', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Le Dernier Souffle', 'Fiona McIntosh', 'Non');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('La Stratégie Ender', 'Orson Scott Card', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('Les Rois des sables', 'George R.R. Martin', 'Oui');
+INSERT INTO LIVRE(titre, auteur, disponible) VALUES ('La Cité des Saints et des Fous', 'Jeff VanderMeer', 'Non');
+
+
+INSERT INTO UTILISATEUR(nom, prenom, role) VALUES ('Jean', 'Printe', 'utilisateur');
+INSERT INTO UTILISATEUR(nom, prenom, role) VALUES ('Sarah', 'Menera', 'utilisateur');
+INSERT INTO UTILISATEUR(nom, prenom, role) VALUES ('Laurent', 'Gina', 'administrateur');
+INSERT INTO UTILISATEUR(nom, prenom, role) VALUES ('Dana', 'Sticot', 'administrateur');
